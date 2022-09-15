@@ -6,8 +6,7 @@ on:
       - opened
     branches: 
       - 'releases/**'
-      - 'main'
-
+      - main
 jobs:
 
   test:
